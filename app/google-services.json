@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412303857381",
+    "project_id": "aplikasi-rental-mobil-6a41f",
+    "storage_bucket": "aplikasi-rental-mobil-6a41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412303857381:android:b9a4edeca13ca4c371a60c",
+        "android_client_info": {
+          "package_name": "com.example.tugaspbokelompok16_aplikasirentalmobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412303857381-jv5iuf62o9bodajfakc7k3o0qec3s2cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmOOLCFJX2iMzW8wGASHbq6iSSKsR6DH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412303857381-jv5iuf62o9bodajfakc7k3o0qec3s2cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
